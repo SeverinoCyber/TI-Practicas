@@ -1,0 +1,15 @@
+/workspaces/TI-Practicas/obj/Debug/net10.0/TI-Practicas.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TI-Practicas/obj/Debug/net10.0/TI-Practicas.AssemblyInfoInputs.cache
+/workspaces/TI-Practicas/obj/Debug/net10.0/TI-Practicas.AssemblyInfo.cs
+/workspaces/TI-Practicas/obj/Debug/net10.0/TI-Practicas.csproj.CoreCompileInputs.cache
+/workspaces/TI-Practicas/obj/Debug/net10.0/TI-Practicas.sourcelink.json
+/workspaces/TI-Practicas/bin/Debug/net10.0/TI-Practicas
+/workspaces/TI-Practicas/bin/Debug/net10.0/TI-Practicas.deps.json
+/workspaces/TI-Practicas/bin/Debug/net10.0/TI-Practicas.runtimeconfig.json
+/workspaces/TI-Practicas/bin/Debug/net10.0/TI-Practicas.dll
+/workspaces/TI-Practicas/bin/Debug/net10.0/TI-Practicas.pdb
+/workspaces/TI-Practicas/obj/Debug/net10.0/TI-Practicas.dll
+/workspaces/TI-Practicas/obj/Debug/net10.0/refint/TI-Practicas.dll
+/workspaces/TI-Practicas/obj/Debug/net10.0/TI-Practicas.pdb
+/workspaces/TI-Practicas/obj/Debug/net10.0/TI-Practicas.genruntimeconfig.cache
+/workspaces/TI-Practicas/obj/Debug/net10.0/ref/TI-Practicas.dll
