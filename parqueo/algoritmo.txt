@@ -1,0 +1,46 @@
+Definir la clase Vehiculo
+    Atributos:
+
+        placa (Texto).
+        tipo (Texto, por ejemplo: "Auto" o "Moto").
+        
+    Constructor:
+        Recibe la placa y el tipo para inicializar el vehículo.
+
+2. Definir la clase Parqueadero
+    Atributos:
+
+        capacidad_maxima (Número entero).
+        vehiculos_estacionados (Lista o Colección de objetos tipo Vehiculo).
+
+Constructor:
+
+    Recibe la capacidad_maxima e inicializa la lista de vehículos como vacía.
+
+Métodos (Acciones):
+
+    estacionar(vehiculo):
+
+        Verifica: Si la cantidad actual de vehículos estacionados es menor a la capacidad_maxima.
+        Si hay espacio: Agrega el objeto vehiculo a la lista e imprime un mensaje de confirmación con la placa.
+        Si NO hay espacio: Imprime un mensaje indicando que el parqueadero está lleno.
+
+    retirar(placa):
+
+        Busca en la lista un vehículo cuya placa coincida con la ingresada.
+        Si lo encuentra: Lo remueve de la lista e imprime que el vehículo ha salido.
+        Si NO lo encuentra: Imprime un mensaje indicando que la placa no está registrada.
+
+    mostrar_estado():
+
+        Imprime cuántos espacios hay ocupados del total (ejemplo: "Ocupación: 2 / 5").
+        Muestra la lista de las placas y tipos de los vehículos actualmente parqueados.
+
+3. Flujo Principal (Instanciación y Pruebas)
+
+    Crear un objeto Parqueadero con una capacidad pequeña (por ejemplo, 3 espacios).
+    Crear al menos 4 objetos de tipo Vehiculo con distintas placas.
+    Intentar estacionar los 4 vehículos por consola para comprobar que el límite de capacidad funcione correctamente.
+    Mostrar el estado del parqueadero.
+    Retirar 1 vehículo usando su placa.
+    Mostrar el estado nuevamente para verificar que se haya liberado el espacio.
