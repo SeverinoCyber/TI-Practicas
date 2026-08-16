@@ -1,0 +1,17 @@
+Definir la clase Producto:
+
+    Atributos: nombre, precio, stock.
+    Métodos: reducir_stock(cantidad) y obtener_subtotal(cantidad).
+
+Definir la clase Inventario:
+
+    Atributo: Una colección/lista de objetos tipo Producto.
+    Método agregar_producto(producto): Añade un producto al arreglo/lista.
+    Método mostrar_inventario(): Recorre los productos e imprime sus datos.
+    Método calcular_valor_total(): Suma y retorna precio * stock de todos los productos.
+
+Flujo Principal:
+
+    Crear la instancia Inventario.
+    Crear e ingresar 2 o 3 objetos de clase Producto.
+    Mostrar el inventario en pantalla y desplegar el costo total consolidado.

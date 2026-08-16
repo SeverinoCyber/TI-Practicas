@@ -1,0 +1,12 @@
+Definir la clase Estudiante:
+
+    Atributos: nombre, matricula, calificaciones (lista/arreglo dinámico de números).
+    Método agregar_calificacion(nota): Añade una nota a la lista.
+    Método calcular_promedio(): Suma todas las notas, las divide por el total de notas registradas y retorna el valor.
+    Método ha_aprobado(): Retorna Verdadero si el promedio es igual o mayor a la nota mínima de paso (ej. 70).
+
+Flujo Principal:
+
+    Instanciar un objeto Estudiante.
+    Agregar varias calificaciones al objeto usando el método correspondiente.
+    Calcular el promedio e imprimir el estado académico final (Aprobado / Reprobado).

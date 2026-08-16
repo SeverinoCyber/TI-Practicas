@@ -1,0 +1,18 @@
+Definir la clase base Personaje:
+    Atributos: nombre, puntos_vida (PV), puntos_ataque.
+    Método atacar(objetivo): Imprime el ataque y resta PV al objetivo.
+    Método esta_vivo(): Retorna Verdadero si puntos_vida > 0.
+
+Crear clases derivadas mediante Herencia:
+    Guerrero (hereda de Personaje): Implementa un ataque crítico con probabilidad.
+    Mago (hereda de Personaje): Implementa un ataque mágico que ignora defensa o consume maná.
+
+Flujo Principal (Bucle del combate):
+    Instanciar un Guerrero (Jugador) y un Mago (Enemigo).
+
+Ejecutar un bucle mientras ambos estén vivos:
+
+    El jugador ataca al enemigo.
+    Si el enemigo sigue vivo, el enemigo ataca al jugador.
+    Al romper el bucle, verificar quién tiene PV > 0 y declarar al ganador.
+    Código en Código Multi-Lenguaje

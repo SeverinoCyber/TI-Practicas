@@ -1,0 +1,12 @@
+Definir la clase CuentaBancaria:
+
+    Atributos protegidos/privados (Encapsulamiento): titular, saldo.
+    Método depositar(monto): Si el monto es mayor a 0, suma al saldo.
+    Método retirar(monto): Si el monto es válido y menor o igual al saldo, lo resta. Si es superior, muestra una alerta de fondos insuficientes.
+    Método consultar_saldo(): Retorna o imprime el saldo actual.
+
+Flujo Principal:
+
+    Crear la cuenta bancaria con un saldo inicial.
+    Intentar depositar dinero.
+    Intentar retirar un monto válido y posteriormente un monto excesivo para probar las restricciones del encapsulamiento.
