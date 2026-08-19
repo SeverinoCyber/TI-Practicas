@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TI-Practicas")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Deteccion_amenazas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccc5dddaa4debb3354d17d9786d2c7115e249ac6")]
-[assembly: System.Reflection.AssemblyProductAttribute("TI-Practicas")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TI-Practicas")]
+[assembly: System.Reflection.AssemblyProductAttribute("Deteccion_amenazas")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Deteccion_amenazas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

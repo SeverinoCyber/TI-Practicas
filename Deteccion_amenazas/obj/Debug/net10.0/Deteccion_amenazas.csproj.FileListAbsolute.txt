@@ -1,0 +1,15 @@
+/workspaces/TI-Practicas/Deteccion_amenazas/obj/Debug/net10.0/Deteccion_amenazas.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TI-Practicas/Deteccion_amenazas/obj/Debug/net10.0/Deteccion_amenazas.AssemblyInfoInputs.cache
+/workspaces/TI-Practicas/Deteccion_amenazas/obj/Debug/net10.0/Deteccion_amenazas.AssemblyInfo.cs
+/workspaces/TI-Practicas/Deteccion_amenazas/obj/Debug/net10.0/Deteccion_amenazas.csproj.CoreCompileInputs.cache
+/workspaces/TI-Practicas/Deteccion_amenazas/obj/Debug/net10.0/Deteccion_amenazas.sourcelink.json
+/workspaces/TI-Practicas/Deteccion_amenazas/bin/Debug/net10.0/Deteccion_amenazas
+/workspaces/TI-Practicas/Deteccion_amenazas/bin/Debug/net10.0/Deteccion_amenazas.deps.json
+/workspaces/TI-Practicas/Deteccion_amenazas/bin/Debug/net10.0/Deteccion_amenazas.runtimeconfig.json
+/workspaces/TI-Practicas/Deteccion_amenazas/bin/Debug/net10.0/Deteccion_amenazas.dll
+/workspaces/TI-Practicas/Deteccion_amenazas/bin/Debug/net10.0/Deteccion_amenazas.pdb
+/workspaces/TI-Practicas/Deteccion_amenazas/obj/Debug/net10.0/Deteccion_amenazas.dll
+/workspaces/TI-Practicas/Deteccion_amenazas/obj/Debug/net10.0/refint/Deteccion_amenazas.dll
+/workspaces/TI-Practicas/Deteccion_amenazas/obj/Debug/net10.0/Deteccion_amenazas.pdb
+/workspaces/TI-Practicas/Deteccion_amenazas/obj/Debug/net10.0/Deteccion_amenazas.genruntimeconfig.cache
+/workspaces/TI-Practicas/Deteccion_amenazas/obj/Debug/net10.0/ref/Deteccion_amenazas.dll

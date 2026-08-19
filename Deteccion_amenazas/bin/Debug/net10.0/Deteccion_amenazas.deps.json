@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Deteccion_amenazas/1.0.0": {
+        "runtime": {
+          "Deteccion_amenazas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Deteccion_amenazas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/TI-Practicas/animal/TI-Practicas.csproj": {}
+    "/workspaces/TI-Practicas/Deteccion_amenazas/Deteccion_amenazas.csproj": {}
   },
   "projects": {
-    "/workspaces/TI-Practicas/animal/TI-Practicas.csproj": {
+    "/workspaces/TI-Practicas/Deteccion_amenazas/Deteccion_amenazas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/TI-Practicas/animal/TI-Practicas.csproj",
-        "projectName": "TI-Practicas",
-        "projectPath": "/workspaces/TI-Practicas/animal/TI-Practicas.csproj",
+        "projectUniqueName": "/workspaces/TI-Practicas/Deteccion_amenazas/Deteccion_amenazas.csproj",
+        "projectName": "Deteccion_amenazas",
+        "projectPath": "/workspaces/TI-Practicas/Deteccion_amenazas/Deteccion_amenazas.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/TI-Practicas/animal/obj/",
+        "outputPath": "/workspaces/TI-Practicas/Deteccion_amenazas/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
